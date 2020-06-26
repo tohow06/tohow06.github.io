@@ -1,1 +1,1 @@
-# tohow06.github.io
+[tohow06.github.io]
