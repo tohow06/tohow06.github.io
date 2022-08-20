@@ -1,0 +1,15 @@
+{
+  "background_color": "purple",
+  "description": "Shows fake MDN",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "icon/mmmmmdm.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "name": "Awesome fake MDN",
+  "short_name": "MDN",
+  "start_url": "/MDM/index.html"
+}
