@@ -21,9 +21,13 @@
         aria-controls="offcanvasNavbar">
         <span class="navbar-toggler-icon"></span>
       </button>
-      <span class="me-auto"></span>
-      <a class="navbar-brand" href="#">國軍 MDM V4.04</a>
-      <span class="ms-auto"></span>
+      <!-- <span class="me-auto"></span> -->
+      <a class="navbar-brand m-0" href="#">國軍 MDM V4.04</a>
+      <!-- <span class="ms-auto"></span> -->
+      <button class="navbar-toggler invisible" type="button" data-bs-toggle="offcanvas"
+        data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar">
+        <span class="navbar-toggler-icon"></span>
+      </button>
 
       <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
         <div class="offcanvas-header">
@@ -78,8 +82,26 @@
     <h1><span>8/20</span>&nbsp;&nbsp;<span>12:22:56</span></h1>
   </div>
 
-  <img src="https://fakeimg.pl/250x100/" class="img-fluid d-block mx-auto" alt="lock">
-  <img src="https://fakeimg.pl/250x100/" class="img-fluid d-block mx-auto" alt="unlock">
+
+  <div class="container-fluid m-1">
+    <div class="row justify-content-center my-2">
+      <div class="col-11 p-2 modebg">
+        <div class="lockdot d-flex align-items-center justify-content-center">
+          <a href="https://google.com" class="">上鎖：進入管制模式</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="row justify-content-center my-4">
+      <div class="col-11 p-2 modebg">
+        <div class="unlockdot d-flex align-items-center justify-content-center">
+          <a href="https://google.com" class="">解鎖：離開管制模式</a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
   <img src="https://fakeimg.pl/250x100/" class="img-fluid d-block mx-auto" alt="codetag">
 
   <div class="container-fluid time text-center">
@@ -87,10 +109,6 @@
     <p class="mb-0">設定檔：V10.18（04/09 11:39:47）</p>
     <p class="text-danger">仿冒必究</p>
   </div>
-
-
-
-
 
   <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.5/dist/umd/popper.min.js"
     integrity="sha384-Xe+8cL9oJa6tN/veChSP7q+mnSPaj5Bcu9mPX5F5xIGE0DVittaqT5lorf0EI7Vk"
