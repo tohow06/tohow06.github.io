@@ -1,47 +1,19 @@
-- company: World Labs
-  description: Founding Member
-  dates: "Jan 2024 - (current)"
-  location: San Francisco, CA
+- company: Dreamslab, Arizona State University
+  description: Robotics and Perception Research Aide. Enhanced a LiDAR-Inertial-Visual sensor fusion framework by integrating an information gain algorithm for drone-based exploration. Leading a 5-person interdisciplinary team in the NASA Lunar Autonomy Challenge, developing autonomous lunar exploration capabilities with real-time dense SLAM.
+  dates: "Apr 2024 - Present"
+  location: Tempe, AZ
 
-- company: Google
-  description: Research Scientist
-  dates: "May 2022 - Jan 2024"
-  location: San Francisco, CA
+- company: Center for Artificial Intelligence and Advanced Robotics, NTU
+  description: Research Assistant. Implemented an LLM-based memory dialogue system and vision-based dangerous activity detection on Android-powered robots. Led clinical trials at NTU Hospital to assess usability and effectiveness of a healthcare robot for dementia treatment.
+  dates: "Oct 2022 - Jul 2023"
+  location: Taipei, Taiwan
 
-- company: Google
-  description: >-
-    Research Intern on the <a href="https://blog.google/technology/research/project-starline/">Project Starline</a> team.
-    Worked on <a href="https://nerfies.github.io">Nerfies</a> and <ahref="https://hypernerf.github.io">HyperNeRF</a>.
-  dates: "Jun 2020 - Sep 2021"
-  location: Seattle, WA
+- company: Robots and Medical Mechatronics Lab, NTU
+  description: Undergraduate Researcher. Developed a swabbing robot with master-slave control and Remote Center of Motion (RCM) mechanism. Refined electrical circuits for an automated tea plucking vehicle and advanced ROS-based control for robotic arms in medical applications. Led summer robotics workshops for new lab members.
+  dates: "Jul 2019 - Jan 2022"
+  location: Taipei, Taiwan
 
-- company: NVIDIA
-  description: >-
-    Robotics Research Intern at the <a href="https://www.nvidia.com/en-us/research/robotics/">Seattle Robotics Lab</a>.
-    Worked on <a href="https://latentfusion.github.io">LatentFusion</a>.
-  dates: "Jul 2019 - Nov 2019"
-  location: Seattle, WA
-
-- company: Amazon
-  description: >- 
-    Applied Scientist Intern on the <a href="https://amazon.com/go">Amazon Go</a> team.
-    Worked on human activity detection.
-  dates: "Jul 2017 - Sep 2017"
-  location: Seattle, WA
-
-- company: Ministry of National Defense, Cyber Command
-  description: Software Engineer (mandatory military service). Worked on network monitoring software.
-  dates: "Oct 2013 - Jul 2015"
-  location: Seoul, Korea
-
-- company: Google
-  description: Software Engineering Intern. Create document conversion system for Google Cloud Print.
-  dates: "May 2013 - Aug 2013"
-  location: Mountain View, CA
-
-- company: Qualcomm
-  description: >-
-    Software Engineering Intern. Optimized performance of JGit, reducing push times from hours to seconds.
-    Implemented multi-master support for Gerrit Code Review.
-  dates: "May 2012 - Aug 2012"
-  location: Boulder, CO
+- company: SRAY-TECH IMAGE CO., LTD
+  description: Intern, AI R&D Department. Built a deep learning environment from scratch using TensorFlow and CUDA for Nvidia GPU optimization. Developed fake facial recognition capabilities for smart door locks, retraining YOLO models and preparing detailed technical documentation.
+  dates: "Jul 2019 - Aug 2019"
+  location: Taipei, Taiwan

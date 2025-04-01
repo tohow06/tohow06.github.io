@@ -1,0 +1,31 @@
+- title: "NASA Lunar Autonomy Challenge"
+  description: "Developing an autonomous agent to control a virtual lunar robot in a simulated Moon environment using a custom CARLA simulator. The robot must efficiently navigate, localize, and map lunar terrain and rocks while managing limited battery power. Passed the qualification round and now advancing to the final round."
+  image: "lac_crop.jpeg"
+  # image_mouseover: "lac_debug_walkthrough.mp4"
+  project_page: "https://lunar-autonomy-challenge.jhuapl.edu/Challenge-Information/index.php"
+  # github: "yourusername/lunar-autonomy-agent"
+  # video: "https://www.youtube.com/watch?v=examplefinalsubmission" 
+
+- title: "Information Gain-Based View Planning for Real-Time 3D Reconstruction of Rocks"
+  description: "Developed a real-time 3D reconstruction system for geologic features using an information gain-based next-best view (NBV) strategy. Combined LiDAR and visual-inertial SLAM to generate high-resolution models while efficiently handling occlusions and reducing redundant scans."
+  image: "nbv.jpeg"
+  # image_mouseover: "lac_crop.jpeg"
+  project_page: "https://drive.google.com/file/d/1zBQQxY4qjCDXoRKqBxB_ypy5y2DXzQcf/view?usp=sharing" 
+  # github: "yourusername/rock-nbv-reconstruction"
+  video: "https://www.youtube.com/watch?v=example3dreconstruction"
+
+- title: "Bennis: An Autonomous Tennis Ball Collecting and Pitching Robot"
+  description: "Built an autonomous robot for tennis ball collection and pitching using SLAM, YOLO-based object detection, and Mecanum wheels for omnidirectional control. Integrated A* and Ant Colony Optimization with Pointer Networks to minimize travel distance and energy usage."
+  image: "bennis.jpeg"
+  # image_mouseover: "bennis_demo.mp4"
+  project_page: "https://drive.google.com/file/d/1taP7Wich18CdPlPwR7QScnVOEyCniU_R/view?usp=sharing"
+  # github: "yourusername/bennis-robot"
+  # video: "https://www.youtube.com/watch?v=examplebennisdemo"
+
+- title: "Autonomous Hill Climbing Robot"
+  description: "Build robust, modular embedded applications on the Pololu 3pi+ 2040 robot using Lingua Franca to handle real-time constraints, sensor integration, and actuator control."
+  image: "lingua.jpg"
+  # image_mouseover: "fignerf_after.mp4"  # Optional
+  project_page: "https://www.lf-lang.org/embedded-lab/Hill.html"
+  # github: "username/project-repo"  # Optional
+  video: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"  # Optional

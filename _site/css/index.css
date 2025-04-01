@@ -1,0 +1,58 @@
+body {
+  font-family: "Noto Sans", sans-serif;
+}
+
+.title {
+  font-family: "Google Sans";
+  font-weight: 700;
+}
+
+.portrait {
+  overflow: hidden;
+}
+
+.footer .footer-links a {
+  font-size: 25px;
+  color: #000;
+}
+
+.project-block .project-title {
+  width: fit-content;
+  margin: 0 !important;
+  font-weight: 600;
+  font-size: 110% !important;
+}
+.project-block .project-title a {
+  color: #000;
+}
+.project-block .project-description {
+  color: #333;
+  margin: 0.5em 0;
+}
+.project-block .project-image {
+  border-radius: 2%;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  font-size: 0;
+}
+.project-block .project-image img {
+  width: 100%;
+}
+.project-block .project-mousecell {
+  position: relative;
+  font-size: 0;
+  width: 100%;
+  height: 100%;
+  display: inline-block;
+  overflow: hidden;
+}
+.project-block .project-mousecell video {
+  display: none;
+}
+.project-block .project-links {
+  margin: 0 !important;
+  margin-top: 0.5em !important;
+}
+
+/*# sourceMappingURL=index.css.map */

@@ -1,11 +1,10 @@
-- name: University of Washington 
+- name: Arizona State University
   description: >-
-    Ph. D in Computer Science, advised by <a href="https://smseitz.com">Steven M. Seitz</a> and
-    <a href="https://homes.cs.washington.edu/~ali/">Ali Farhadi</a>.<br />
-    Supported by Samsung Scholarship 2015-2020 ($50,000/year for 5 years)
-  dates: Fall 2015 - Spring 2022
+    M.S. in Robotics and Autonomous Systems, advised by <a href="https://dreams-lab.replit.app/">Jnaneshwar Das</a>.</br>
+    Concentration in Systems Engineering.
+  dates: Fall 2023 - Spring 2025
 
-- name: University of Illinois at Urbana-Champaign
+- name: National Taiwan University
   description: >-
-    B.S. in Computer Science, advised by <a href="https://dhoiem.cs.illinois.edu/">Derek Hoiem</a>.
-  dates: Fall 2009 - Spring 2013
+    B.S. in Biomedical Engineering, advised by <a href="http://rmml.bime.ntu.edu.tw/profe.html">Ping-Lang Yen</a>.
+  dates: Fall 2017 - Spring 2022

@@ -18,23 +18,22 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Keunhong Park
-name: Keunhong Park
-position: Research Scientist 
-email: dp9jalxhq@mozmail.com
+title: Yi-Hau Lai
+name: Yi-Hau Lai
+position: Robotics and Perception Research Aide
+email: tohow0606@gmail.com
 description: >-
-  I am a researcher in 3D computer vision and generative AI. I currently co-lead the development of spatial intelligence at [World Labs](https://www.worldlabs.ai/blog).
-  I was previously a research scientist at [Google](https://ai.google/research/) where I built technology to [generate 3D assets](https://blog.google/products/shopping/search-on-2022-shopping/) for products on Google Search.
-
-  I received my Ph.D from the [University of Washington](https://grail.cs.washington.edu/) in 2021 where I was advised by
-  [Ali Farhadi](https://homes.cs.washington.edu/~ali/) and
-  [Steve Seitz](https://homes.cs.washington.edu/~seitz/).
+  I am completing my Master's in Robotics and Autonomous Systems at Arizona State University. 
+  At [Dreamslab (ASU)](https://dreams-lab.replit.app/), advised by [Jnaneshwar Das](https://search.asu.edu/profile/3327973), I currently lead the final phase of the NASA Lunar Autonomy Challenge, focusing on autonomous navigation and robotic perception. 
+  My research includes engineering an autonomous UAV integrating LiDAR-Inertial-Visual SLAM with ROS2 and PX4 for 3D reconstruction tasks. 
+  Previously, I conducted research at the [Robots and Medical Mechatronics Lab](http://rmml.bime.ntu.edu.tw/nturmmle.html) at NTU, advised by [Ping-Lang Yen](http://rmml.bime.ntu.edu.tw/profe.html).
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://keunhong.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: KeunhongP
-github_username: keunhong
-google_scholar: HVZb-5oAAAAJ
-google_analytics: G-MFWSBLRKG0
+url: "https://tohow06.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: 
+github_username: tohow06
+linkedin_username: tohow06
+# google_scholar: 
+# google_analytics: 
 
 # Build settings
 theme: minima
