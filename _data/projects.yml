@@ -12,7 +12,7 @@
   # image_mouseover: "lac_crop.jpeg"
   project_page: "https://drive.google.com/file/d/1zBQQxY4qjCDXoRKqBxB_ypy5y2DXzQcf/view?usp=sharing" 
   # github: "yourusername/rock-nbv-reconstruction"
-  video: "https://www.youtube.com/watch?v=example3dreconstruction"
+  # video: "https://www.youtube.com/watch?v=example3dreconstruction"
 
 - title: "Bennis: An Autonomous Tennis Ball Collecting and Pitching Robot"
   description: "Built an autonomous robot for tennis ball collection and pitching using SLAM, YOLO-based object detection, and Mecanum wheels for omnidirectional control. Integrated A* and Ant Colony Optimization with Pointer Networks to minimize travel distance and energy usage."
@@ -28,4 +28,10 @@
   # image_mouseover: "fignerf_after.mp4"  # Optional
   project_page: "https://www.lf-lang.org/embedded-lab/Hill.html"
   # github: "username/project-repo"  # Optional
-  video: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"  # Optional
+  # video: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+
+- title: "3x3 Cube Solver with Visual Recognition and Hardware Integration" 
+  description: "Developed a comprehensive Rubik's Cube solver application combining computer vision, AI algorithms, and physical automation. The system can detect cube states via webcam, generate optimal solutions, and visualize the process. Additionally, it integrates with a robot to solve the cube physically. The solver uses Kociemba's two-phase algorithm and CFOP method to optimize solutions." 
+  image: "cube_solver.png" 
+  project_page: "https://github.com/tohow06/3by3CubeSolver" 
+  video: "https://youtu.be/7RalEq9f3NY"

@@ -140,6 +140,12 @@ layout: null
                 <span>Code</span>
               </a>
               {% endif %}
+              {% if project.video %}
+              <a class="external-link button is-small is-ghost" href="{{ project.video }}">
+                <span class="icon"><i class="fas fa-video"></i></span>
+                <span>Video</span>
+              </a>
+              {% endif %}
               {% if project.demo %}
               <a class="external-link button is-small is-ghost" href="{{ project.demo }}">
                 <span class="icon"><i class="fas fa-play"></i></span>
@@ -176,7 +182,7 @@ layout: null
         <div class="column is-8">
           <div class="content">
             <p>
-              Feel free to <a href="https://github.com/keunhong/keunhong.github.io">borrow this template</a>.
+              Thanks to <a href="https://github.com/keunhong/keunhong.github.io">Keunhong Park</a> for the template. 
             </p>
           </div>
         </div>
