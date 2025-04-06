@@ -30,6 +30,12 @@
   github: "tohow06/my-lf-3pi.git"
   video: "https://youtube.com/shorts/7WDaCS6qecY"
 
+- title: "Collaborative Tea Harvesting Robot"
+  description: "Assisted in the development of a smart carrier robot focused on man-machine coordination for efficient single-ceremony tea harvesting. The project involved enabling collaboration with operators using existing tools in diverse gardens, implementing sensor-based path planning, adaptive turning, and obstacle avoidance for enhanced flexibility."
+  image: "tea_picking.png" # Replace with your actual image filename
+  project_page: "https://doi.org/10.1109/CoDIT49905.2020.9263925"                     
+  video: "https://www.dropbox.com/scl/fi/jbg7uozu2verpbc1pkkf5/crop2.mp4?rlkey=ymlxzc5eon1q4b9kyfmustwdc&st=ow8dk6dk&dl=0"
+
 - title: "3x3 Cube Solver with Visual Recognition and Hardware Integration" 
   description: "Developed a comprehensive Rubik's Cube solver application combining computer vision, AI algorithms, and physical automation. The system can detect cube states via webcam, generate optimal solutions, and visualize the process. Additionally, it integrates with a robot to solve the cube physically. The solver uses Kociemba's two-phase algorithm and CFOP method to optimize solutions." 
   image: "cube_solver.png" 
