@@ -27,8 +27,8 @@
   image: "lingua.jpg"
   # image_mouseover: "fignerf_after.mp4"  # Optional
   project_page: "https://www.lf-lang.org/embedded-lab/Hill.html"
-  # github: "username/project-repo"  # Optional
-  # video: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+  github: "tohow06/my-lf-3pi.git"
+  video: "https://youtube.com/shorts/7WDaCS6qecY"
 
 - title: "3x3 Cube Solver with Visual Recognition and Hardware Integration" 
   description: "Developed a comprehensive Rubik's Cube solver application combining computer vision, AI algorithms, and physical automation. The system can detect cube states via webcam, generate optimal solutions, and visualize the process. Additionally, it integrates with a robot to solve the cube physically. The solver uses Kociemba's two-phase algorithm and CFOP method to optimize solutions." 
